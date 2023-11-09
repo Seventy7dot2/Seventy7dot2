@@ -19,7 +19,7 @@ I'm a self-motivated and dedicated individual with a strong interest in web deve
 ## Skills
 
 - HTML, CSS, JavaScript
-- Frontend Frameworks: React, Jinja2
+- Frontend Frameworks: React, Vue
 - Backend Technologies: Flask, SQL
 - Version Control: Git, GitHub
 
