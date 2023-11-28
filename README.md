@@ -1,10 +1,10 @@
 # Prasad Patra
 
-👋 Hello! I'm Prasad Patra, a passionate web developer currently pursuing a BTech degree from NIT Rourkela and a BS degree from IIT Madras.
+👋 Hello! I'm Prasad Patra, a passionate programmer currently pursuing a BTech degree from NIT Rourkela and a BS degree from IIT Madras.
 
 ## About Me
 
-I'm a self-motivated and dedicated individual with a strong interest in web development. I love to bring creative ideas to life through coding and design. My journey in the world of programming began during my college years, and since then, I've been on a continuous learning adventure.
+I'm a self-motivated and dedicated individual with a strong interest in web development, DevOps and Machine Learning. I love to bring creative ideas to life through coding and design. My journey in the world of programming began during my college years, and since then, I've been on a continuous learning adventure.
 
 ## Education
 
@@ -18,9 +18,12 @@ I'm a self-motivated and dedicated individual with a strong interest in web deve
 
 ## Skills
 
-- HTML, CSS, JavaScript
-- Frontend Frameworks: React.js, Vue.js
-- Backend Technologies: Flask, Node.js, Express.js, Next.js
+- Languages: Python, C++, Java, JavaScript, TypeScript
+- Frontend Technologies: React.js, Vue.js, Next.js
+- Backend Technologies: Flask, Node.js, Express.js
+- Databases: SQLite, PostgreSQL, MongoDB
+- Cloud Servies: AWS
+- DevOps: Github Actions, Docker
 - Version Control: Git, GitHub
 
 
