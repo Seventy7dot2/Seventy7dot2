@@ -28,6 +28,6 @@ I'm a self-motivated and dedicated individual with a strong interest in web deve
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prasadpatra50) or follow me on [GitHub](https://github.com/Seventy7dot2). You can also check out my [portfolio website](https://www.prasadpatra.dev) to learn more about my projects and experiences. For any inquiries or collaborations, you can reach out to me via email at [contact@prasadpatra.dev](mailto:contact@prasadpatra.dev).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prasadpatra50) or follow me on [GitHub](https://github.com/Seventy7dot2). You can also check out my [www.prasadpatra.dev](https://www.prasadpatra.dev) to learn more about my projects and experiences. For any inquiries or collaborations, you can reach out to me via email at [contact@prasadpatra.dev](mailto:contact@prasadpatra.dev).
 
 Let's code and create amazing web experiences together!
