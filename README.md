@@ -18,17 +18,16 @@ I'm a self-motivated and dedicated individual with a strong interest in web deve
 
 ## Skills
 
-- Languages: Python, C++, Java, JavaScript, TypeScript
-- Frontend Technologies: React.js, Vue.js, Next.js
-- Backend Technologies: Flask, Node.js, Express.js
-- Databases: SQLite, PostgreSQL, MongoDB
-- Cloud Servies: AWS
+- Languages: Python, C, C++, Java, JavaScript, TypeScript
+- Web Development Frameworks: React.js, Vue.js, Next.js, Flask, Node.js, Express.js
+- Databases: SQLite, PostgreSQL, MongoDB, Redis
+- Cloud Services: AWS, GCP
 - DevOps: Github Actions, Docker
+- APIs and Protocols: REST, tRpc, WebSocket, OpenAPI spec
 - Version Control: Git, GitHub
-
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prasadpatra50) or follow me on [GitHub](https://github.com/Seventy7dot2). I'm always excited to collaborate on new projects and learn from fellow developers.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prasadpatra50) or follow me on [GitHub](https://github.com/Seventy7dot2). You can also check out my [portfolio website](https://www.prasadpatra.dev) to learn more about my projects and experiences. For any inquiries or collaborations, you can reach out to me via email at [contact@prasadpatra.dev](mailto:contact@prasadpatra.dev).
 
 Let's code and create amazing web experiences together!
